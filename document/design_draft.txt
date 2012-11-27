@@ -1,0 +1,22 @@
+<root>
+<dev-tools>
+	<front-end>
+		<language>HTML4/5</language>
+		<language>Javascript</language>
+		<framework>BootStrap</framework>
+		<framework>JQuery</framework>
+	</front-end>
+	<background>
+		<language>PHP</language>
+		<framework>Zend</framework>
+	</background>
+	<storage>
+		<database>MySQL</database>
+	</storage>
+</dev-tools>
+<target>
+	<function>
+		
+	</function>
+</target>
+</root>
